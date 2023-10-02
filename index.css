@@ -1,0 +1,231 @@
+body{
+    font-family: Poppins;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.topo{
+    width: 1024px;
+    padding: 35px 0px;
+    margin: auto;
+    display: flex;
+}
+
+.topo img{
+    width: 25%;
+}
+
+.logo{
+    display: flex;
+    width: 320px;
+}
+
+.logo div{
+    display: block;
+    line-height: 10px;
+    margin-left: 15px;
+    text-align: left; 
+}
+
+.topo a{
+    margin: 0px 12px;
+    text-decoration: none;
+    color: #233032;
+}
+
+.links{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+span{
+    color: #2f86d6;
+    font-weight: bold;
+}
+
+.banner{
+    color: white;
+    background-color: #2f86d6;
+    padding: 180px 0px;
+    box-sizing: border-box;
+}
+
+.conteudo{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+    text-align: left;
+}
+
+.conteudo div{
+    width: 470px;
+    margin-top: 10%;
+}
+
+.banner img{
+    width: 50%;
+}
+
+.anuncio{
+    background-color: #233032;
+    color: white;
+    padding: 40px 0;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.anuncio a{
+    text-decoration: none;
+    color: white;
+}
+
+.conteudo2{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+    text-align: left;
+}
+
+.tex{
+    text-align: left;
+    width: 600px;
+    margin-right: 180px;
+}
+
+.botao{
+    background-color: #2f86d6;
+    max-height: 20px;
+    padding: 20px;
+    margin: 24px 10px;
+}
+
+.informacoes{
+    padding: 100px 0;
+}
+
+.informacoes h2{
+    width: 900px;
+    margin: auto;
+}
+
+.phot{
+    width: 1024px;
+    display: flex;
+    margin: 100px auto 0 auto;
+}
+
+.phot img{
+    width: 33%;
+}
+
+.phot div{
+    width: 33%;
+}
+
+.tabela{
+    width: 1024px;
+    margin: auto;
+    padding: 100px 0px;
+}
+
+.tabela h2{
+    margin-bottom: 100px;
+}
+
+table img{
+    width: 50%
+}
+
+table p{
+    color: #a89f9f;
+    font-size: x-small;
+    margin-left: 24px;
+}
+
+td{
+    text-align: center;
+    padding: 20px 0;
+}
+
+table{
+    box-shadow: 1px 1px 20px 10px rgba(47,134,214,1);
+    border-collapse: collapse;
+    border-radius: 6px;
+}
+
+table h3{
+    margin-top: 40px;
+}
+
+.escuro{
+    background-color: #f1f3f7;
+}
+
+.anuncio2{
+    background-color: #2f86d6;
+    color: white;
+    padding: 40px 0;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.anuncio2 a{
+    text-decoration: none;
+    color: white;
+}
+
+.conteudo3{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+    text-align: left;
+}
+
+.conteudo3 h2{
+    text-align: left;
+    width: 600px;
+    margin-right: 180px;
+}
+
+.botao2{
+    background-color: #233032;
+    max-height: 20px;
+    padding: 20px;
+    margin: 24px 10px;
+}
+
+.rodape{
+    padding: 100px 0 0 0;
+}
+
+.logo2{
+    width: 320px;
+    display: flex;
+    margin: auto;
+}
+
+.logo2 div{
+    display: block;
+    text-align: left;
+    line-height: 10px;
+    margin-left: 15px;
+}
+
+.logo2 img{
+    width: 25%;
+}
+
+.contato{
+    line-height: 30px;
+    font-weight: bold;
+    margin: 100px 0 50px 0;
+}
+
+.nome{
+    background-color: #f6f6f6;
+    padding: 20px 0;
+    font-size: large;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
